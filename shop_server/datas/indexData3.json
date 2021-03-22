@@ -1,0 +1,1709 @@
+{
+    "hasStockAmount": {
+        "api": "api-channel-enroll-hasstockamount",
+        "code": "1",
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "msg": "",
+        "v": "1.0"
+    },
+    "actPic": [
+        "//imgservice3.suning.cn/uimg1/b2c/image/OH4_alTLIukRKl2GSLRy1A.jpg_400w_400h_4e_85Q",
+        "//imgservice3.suning.cn/uimg1/b2c/image/EzDnbhH5bFlTucw3uv1GMQ.jpg_400w_400h_4e_85Q",
+        "//imgservice4.suning.cn/uimg1/b2c/image/tfzPBkMX_BQDXh4XSP4zGw.jpg_400w_400h_4e_85Q",
+        "//imgservice5.suning.cn/uimg1/b2c/image/Ua0HenDu7U_VyQeH5BDOdg.jpg_400w_400h_4e_85Q",
+        "//imgservice3.suning.cn/uimg1/b2c/image/coNzRx1BmjQZWsfL3g9l2w.jpg_400w_400h_4e_85Q",
+        "//imgservice5.suning.cn/uimg1/b2c/image/lo186uifstdvwCqMG0yQ6g.jpg_400w_400h_4e_85Q",
+        "//imgservice5.suning.cn/uimg1/b2c/image/4nw_32PM0X353Z1s0clbHg.jpg_400w_400h_4e_85Q",
+        "//imgservice4.suning.cn/uimg1/b2c/image/5H0raqggk77b2dkHh9MTIg.jpg_400w_400h_4e_85Q",
+        "//imgservice3.suning.cn/uimg1/b2c/image/G1WgZOHdRSICBiK4OgPHCw.jpg_400w_400h_4e_85Q",
+        "//imgservice1.suning.cn/uimg1/b2c/image/GP_QwaNumAylom0o5dW5cw.png_400w_400h_4e_85Q"
+    ],
+    "saleStore": {
+        "api": "api-activity-getSaleStore",
+        "code": "1",
+        "data": [
+            {
+                "addStore": 0,
+                "itemCode": "000000012252007040",
+                "saledStore": 3205
+            },
+            {
+                "addStore": 0,
+                "itemCode": "000000012199849967",
+                "saledStore": 7883
+            },
+            {
+                "addStore": 0,
+                "itemCode": "000000012150617877",
+                "saledStore": 1770
+            },
+            {
+                "addStore": 0,
+                "itemCode": "000000012239508027",
+                "saledStore": 317
+            },
+            {
+                "addStore": 0,
+                "itemCode": "000000012200058443",
+                "saledStore": 10306
+            },
+            {
+                "addStore": 0,
+                "itemCode": "000000012096969045",
+                "saledStore": 2844
+            },
+            {
+                "addStore": 0,
+                "itemCode": "000000012221270104",
+                "saledStore": 4678
+            },
+            {
+                "addStore": 0,
+                "itemCode": "000000000133079282",
+                "saledStore": 23624
+            },
+            {
+                "addStore": 0,
+                "itemCode": "000000011654983223",
+                "saledStore": 67574
+            },
+            {
+                "addStore": 0,
+                "itemCode": "000000011642652399",
+                "saledStore": 99606
+            }
+        ],
+        "msg": "",
+        "v": "1.0"
+    },
+    "prices": [
+        {
+            "usePrice": "",
+            "priceType": "1",
+            "stdLocatCode": "0001",
+            "invStatus": "1",
+            "existFlag": "1",
+            "excmmdtyCode": "",
+            "cityFrom": "",
+            "netPrice": "10.90",
+            "subList": [],
+            "failMsg": "",
+            "price": "10.90",
+            "pgPriceType": "1",
+            "supplierCode": "0010319633",
+            "salesStatus": "1",
+            "failCode": "",
+            "plantCode": "ZE01",
+            "pgNum": "2",
+            "businessField1": "",
+            "businessMode": "X",
+            "promotionPrice": "10.90",
+            "cityCode": "010",
+            "pgActionId": "64026772117321287040",
+            "purchaseFlag": "3",
+            "accountPlace": "D009",
+            "manageInvFlag": "3",
+            "vendorType": "",
+            "status": "1",
+            "factorySendFlag": "",
+            "chargePlantCode": "D009",
+            "bizCode": "0000000000",
+            "vendor": "0010319633",
+            "locatCode": "0001",
+            "salesStatusOld": "",
+            "cmmdtyCode": "000000012252007040",
+            "ownerPlace": "ZE01",
+            "errorMsg": "",
+            "pgPrice": "10.00",
+            "arrivalDate": ""
+        },
+        {
+            "usePrice": "",
+            "priceType": "1",
+            "stdLocatCode": "0001",
+            "invStatus": "1",
+            "existFlag": "1",
+            "excmmdtyCode": "000000012199849969",
+            "cityFrom": "",
+            "netPrice": "119.00",
+            "subList": [],
+            "failMsg": "",
+            "price": "119.00",
+            "pgPriceType": "1",
+            "supplierCode": "0010166984",
+            "salesStatus": "1",
+            "failCode": "",
+            "plantCode": "DT04",
+            "pgNum": "2",
+            "businessField1": "",
+            "businessMode": "E",
+            "promotionPrice": "119.00",
+            "cityCode": "010",
+            "pgActionId": "63805195391201929967",
+            "purchaseFlag": "0",
+            "accountPlace": "",
+            "manageInvFlag": "0",
+            "vendorType": "",
+            "status": "1",
+            "factorySendFlag": "",
+            "chargePlantCode": "DT04",
+            "bizCode": "0000000000",
+            "vendor": "0010166984",
+            "locatCode": "0001",
+            "salesStatusOld": "",
+            "cmmdtyCode": "000000012199849967",
+            "ownerPlace": "DT04",
+            "errorMsg": "",
+            "pgPrice": "69.00",
+            "arrivalDate": ""
+        },
+        {
+            "farmPrice": "",
+            "snPrice": "29.90",
+            "priceType": "2",
+            "memberNum": "2",
+            "invStatus": "1",
+            "existFlag": "1",
+            "errorCode": "",
+            "cityFrom": "",
+            "subList": [
+                {
+                    "farmPrice": "",
+                    "snPrice": "29.90",
+                    "priceType": "2",
+                    "memberNum": "2",
+                    "invStatus": "1",
+                    "existFlag": "1",
+                    "errorCode": "",
+                    "cityFrom": "",
+                    "subList": [],
+                    "price": "9.90",
+                    "supplierCode": "0070829166",
+                    "pgPrice": "19.90",
+                    "preheatMemberNum": "",
+                    "plantCode": "ZE99",
+                    "errorMsg": "",
+                    "businessMode": "",
+                    "locatCode": "0001",
+                    "farmActID": "",
+                    "errorDesc": "",
+                    "purchaseFlag": "5",
+                    "preheatPrice": "",
+                    "pageExistFlag": "",
+                    "cmmdtyType": "1",
+                    "arrivalDate": "",
+                    "sourceSaleStatus": "",
+                    "bizCode": "0070829166",
+                    "saleStatus": "1",
+                    "activeId": "64252949589915207877",
+                    "businessField1": "",
+                    "cmmdtyCode": "000000012150617878",
+                    "pgMemberNum": "2",
+                    "stdLocatCode": "",
+                    "onLineStatus": "",
+                    "chargePlantCode": ""
+                }
+            ],
+            "price": "9.90",
+            "supplierCode": "0070829166",
+            "pgPrice": "19.90",
+            "preheatMemberNum": "",
+            "plantCode": "ZE99",
+            "errorMsg": "",
+            "businessMode": "",
+            "locatCode": "0001",
+            "farmActID": "",
+            "errorDesc": "",
+            "purchaseFlag": "5",
+            "preheatPrice": "",
+            "pageExistFlag": "",
+            "cmmdtyType": "2",
+            "arrivalDate": "",
+            "sourceSaleStatus": "",
+            "bizCode": "0070829166",
+            "saleStatus": "1",
+            "activeId": "64252949589915207877",
+            "businessField1": "",
+            "cmmdtyCode": "000000012150617877",
+            "pgMemberNum": "2",
+            "stdLocatCode": "",
+            "onLineStatus": "",
+            "chargePlantCode": ""
+        },
+        {
+            "usePrice": "",
+            "priceType": "1",
+            "stdLocatCode": "0001",
+            "invStatus": "1",
+            "existFlag": "1",
+            "excmmdtyCode": "",
+            "cityFrom": "",
+            "netPrice": "79.00",
+            "subList": [],
+            "failMsg": "",
+            "price": "79.00",
+            "pgPriceType": "1",
+            "supplierCode": "0010325046",
+            "salesStatus": "1",
+            "failCode": "",
+            "plantCode": "ZE01",
+            "pgNum": "2",
+            "businessField1": "",
+            "businessMode": "X",
+            "promotionPrice": "79.00",
+            "cityCode": "010",
+            "pgActionId": "64003611491103368027",
+            "purchaseFlag": "3",
+            "accountPlace": "D025",
+            "manageInvFlag": "3",
+            "vendorType": "",
+            "status": "1",
+            "factorySendFlag": "",
+            "chargePlantCode": "D025",
+            "bizCode": "0000000000",
+            "vendor": "0010325046",
+            "locatCode": "0001",
+            "salesStatusOld": "",
+            "cmmdtyCode": "000000012239508027",
+            "ownerPlace": "ZE01",
+            "errorMsg": "",
+            "pgPrice": "49.00",
+            "arrivalDate": ""
+        },
+        {
+            "farmPrice": "",
+            "snPrice": "39.90",
+            "priceType": "2",
+            "memberNum": "2",
+            "invStatus": "1",
+            "existFlag": "1",
+            "errorCode": "",
+            "cityFrom": "",
+            "subList": [
+                {
+                    "farmPrice": "",
+                    "snPrice": "39.90",
+                    "priceType": "2",
+                    "memberNum": "2",
+                    "invStatus": "1",
+                    "existFlag": "1",
+                    "errorCode": "",
+                    "cityFrom": "",
+                    "subList": [],
+                    "price": "10.00",
+                    "supplierCode": "0071134652",
+                    "pgPrice": "19.90",
+                    "preheatMemberNum": "",
+                    "plantCode": "ZE99",
+                    "errorMsg": "",
+                    "businessMode": "",
+                    "locatCode": "0001",
+                    "farmActID": "",
+                    "errorDesc": "",
+                    "purchaseFlag": "5",
+                    "preheatPrice": "",
+                    "pageExistFlag": "",
+                    "cmmdtyType": "1",
+                    "arrivalDate": "",
+                    "sourceSaleStatus": "",
+                    "bizCode": "0071134652",
+                    "saleStatus": "1",
+                    "activeId": "63770237630935688443",
+                    "businessField1": "",
+                    "cmmdtyCode": "000000012200058444",
+                    "pgMemberNum": "2",
+                    "stdLocatCode": "",
+                    "onLineStatus": "",
+                    "chargePlantCode": ""
+                }
+            ],
+            "price": "10.00",
+            "supplierCode": "0071134652",
+            "pgPrice": "19.90",
+            "preheatMemberNum": "",
+            "plantCode": "ZE99",
+            "errorMsg": "",
+            "businessMode": "",
+            "locatCode": "0001",
+            "farmActID": "",
+            "errorDesc": "",
+            "purchaseFlag": "5",
+            "preheatPrice": "",
+            "pageExistFlag": "",
+            "cmmdtyType": "2",
+            "arrivalDate": "",
+            "sourceSaleStatus": "",
+            "bizCode": "0071134652",
+            "saleStatus": "1",
+            "activeId": "63770237630935688443",
+            "businessField1": "",
+            "cmmdtyCode": "000000012200058443",
+            "pgMemberNum": "2",
+            "stdLocatCode": "",
+            "onLineStatus": "",
+            "chargePlantCode": ""
+        },
+        {
+            "farmPrice": "",
+            "snPrice": "12.90",
+            "priceType": "2",
+            "memberNum": "2",
+            "invStatus": "1",
+            "existFlag": "1",
+            "errorCode": "",
+            "cityFrom": "",
+            "subList": [],
+            "price": "5.99",
+            "supplierCode": "0071257609",
+            "pgPrice": "7.90",
+            "preheatMemberNum": "",
+            "plantCode": "ZE99",
+            "errorMsg": "",
+            "businessMode": "",
+            "locatCode": "0001",
+            "farmActID": "",
+            "errorDesc": "",
+            "purchaseFlag": "5",
+            "preheatPrice": "",
+            "pageExistFlag": "",
+            "cmmdtyType": "1",
+            "arrivalDate": "",
+            "sourceSaleStatus": "",
+            "bizCode": "0071257609",
+            "saleStatus": "1",
+            "activeId": "64228413046519369045",
+            "businessField1": "",
+            "cmmdtyCode": "000000012096969045",
+            "pgMemberNum": "2",
+            "stdLocatCode": "",
+            "onLineStatus": "",
+            "chargePlantCode": ""
+        },
+        {
+            "farmPrice": "",
+            "snPrice": "289.00",
+            "priceType": "2",
+            "memberNum": "2",
+            "invStatus": "1",
+            "existFlag": "1",
+            "errorCode": "",
+            "cityFrom": "",
+            "subList": [
+                {
+                    "farmPrice": "",
+                    "snPrice": "289.00",
+                    "priceType": "2",
+                    "memberNum": "2",
+                    "invStatus": "1",
+                    "existFlag": "1",
+                    "errorCode": "",
+                    "cityFrom": "",
+                    "subList": [],
+                    "price": "59.00",
+                    "supplierCode": "0071197119",
+                    "pgPrice": "286.00",
+                    "preheatMemberNum": "",
+                    "plantCode": "ZE99",
+                    "errorMsg": "",
+                    "businessMode": "",
+                    "locatCode": "0001",
+                    "farmActID": "",
+                    "errorDesc": "",
+                    "purchaseFlag": "5",
+                    "preheatPrice": "",
+                    "pageExistFlag": "",
+                    "cmmdtyType": "1",
+                    "arrivalDate": "",
+                    "sourceSaleStatus": "",
+                    "bizCode": "0071197119",
+                    "saleStatus": "1",
+                    "activeId": "63662398089196480104",
+                    "businessField1": "",
+                    "cmmdtyCode": "000000012221270105",
+                    "pgMemberNum": "2",
+                    "stdLocatCode": "",
+                    "onLineStatus": "",
+                    "chargePlantCode": ""
+                }
+            ],
+            "price": "59.00",
+            "supplierCode": "0071197119",
+            "pgPrice": "286.00",
+            "preheatMemberNum": "",
+            "plantCode": "ZE99",
+            "errorMsg": "",
+            "businessMode": "",
+            "locatCode": "0001",
+            "farmActID": "",
+            "errorDesc": "",
+            "purchaseFlag": "5",
+            "preheatPrice": "",
+            "pageExistFlag": "",
+            "cmmdtyType": "2",
+            "arrivalDate": "",
+            "sourceSaleStatus": "",
+            "bizCode": "0071197119",
+            "saleStatus": "1",
+            "activeId": "63662398089196480104",
+            "businessField1": "",
+            "cmmdtyCode": "000000012221270104",
+            "pgMemberNum": "2",
+            "stdLocatCode": "",
+            "onLineStatus": "",
+            "chargePlantCode": ""
+        },
+        {
+            "usePrice": "",
+            "priceType": "1",
+            "stdLocatCode": "0001",
+            "invStatus": "1",
+            "existFlag": "1",
+            "excmmdtyCode": "",
+            "cityFrom": "",
+            "netPrice": "89.00",
+            "subList": [],
+            "failMsg": "",
+            "price": "89.00",
+            "pgPriceType": "1",
+            "supplierCode": "0010323877",
+            "salesStatus": "1",
+            "failCode": "",
+            "plantCode": "ZE01",
+            "pgNum": "2",
+            "businessField1": "",
+            "businessMode": "E",
+            "promotionPrice": "89.00",
+            "cityCode": "010",
+            "pgActionId": "64064677916242249282",
+            "purchaseFlag": "3",
+            "accountPlace": "D011",
+            "manageInvFlag": "3",
+            "vendorType": "",
+            "status": "1",
+            "factorySendFlag": "",
+            "chargePlantCode": "D011",
+            "bizCode": "0000000000",
+            "vendor": "0010323877",
+            "locatCode": "0001",
+            "salesStatusOld": "",
+            "cmmdtyCode": "000000000133079282",
+            "ownerPlace": "ZE01",
+            "errorMsg": "",
+            "pgPrice": "49.90",
+            "arrivalDate": ""
+        },
+        {
+            "farmPrice": "",
+            "snPrice": "198.00",
+            "priceType": "2",
+            "memberNum": "2",
+            "invStatus": "1",
+            "existFlag": "1",
+            "errorCode": "",
+            "cityFrom": "",
+            "subList": [
+                {
+                    "farmPrice": "",
+                    "snPrice": "198.00",
+                    "priceType": "2",
+                    "memberNum": "2",
+                    "invStatus": "1",
+                    "existFlag": "1",
+                    "errorCode": "",
+                    "cityFrom": "",
+                    "subList": [],
+                    "price": "8.90",
+                    "supplierCode": "0071022680",
+                    "pgPrice": "8.90",
+                    "preheatMemberNum": "",
+                    "plantCode": "ZE99",
+                    "errorMsg": "",
+                    "businessMode": "",
+                    "locatCode": "0001",
+                    "farmActID": "",
+                    "errorDesc": "",
+                    "purchaseFlag": "5",
+                    "preheatPrice": "",
+                    "pageExistFlag": "",
+                    "cmmdtyType": "1",
+                    "arrivalDate": "",
+                    "sourceSaleStatus": "",
+                    "bizCode": "0071022680",
+                    "saleStatus": "1",
+                    "activeId": "64054591939605763223",
+                    "businessField1": "",
+                    "cmmdtyCode": "000000011654983255",
+                    "pgMemberNum": "2",
+                    "stdLocatCode": "",
+                    "onLineStatus": "",
+                    "chargePlantCode": ""
+                }
+            ],
+            "price": "8.90",
+            "supplierCode": "0071022680",
+            "pgPrice": "8.90",
+            "preheatMemberNum": "",
+            "plantCode": "ZE99",
+            "errorMsg": "",
+            "businessMode": "",
+            "locatCode": "0001",
+            "farmActID": "",
+            "errorDesc": "",
+            "purchaseFlag": "5",
+            "preheatPrice": "",
+            "pageExistFlag": "",
+            "cmmdtyType": "2",
+            "arrivalDate": "",
+            "sourceSaleStatus": "",
+            "bizCode": "0071022680",
+            "saleStatus": "1",
+            "activeId": "64054591939605763223",
+            "businessField1": "",
+            "cmmdtyCode": "000000011654983223",
+            "pgMemberNum": "2",
+            "stdLocatCode": "",
+            "onLineStatus": "",
+            "chargePlantCode": ""
+        },
+        {
+            "farmPrice": "",
+            "snPrice": "69.00",
+            "priceType": "2",
+            "memberNum": "2",
+            "invStatus": "1",
+            "existFlag": "1",
+            "errorCode": "",
+            "cityFrom": "",
+            "subList": [
+                {
+                    "farmPrice": "",
+                    "snPrice": "69.00",
+                    "priceType": "2",
+                    "memberNum": "2",
+                    "invStatus": "1",
+                    "existFlag": "1",
+                    "errorCode": "",
+                    "cityFrom": "",
+                    "subList": [],
+                    "price": "18.80",
+                    "supplierCode": "0070926652",
+                    "pgPrice": "26.90",
+                    "preheatMemberNum": "",
+                    "plantCode": "ZE99",
+                    "errorMsg": "",
+                    "businessMode": "",
+                    "locatCode": "0001",
+                    "farmActID": "",
+                    "errorDesc": "",
+                    "purchaseFlag": "5",
+                    "preheatPrice": "",
+                    "pageExistFlag": "",
+                    "cmmdtyType": "1",
+                    "arrivalDate": "",
+                    "sourceSaleStatus": "",
+                    "bizCode": "0070926652",
+                    "saleStatus": "1",
+                    "activeId": "64200533792911362399",
+                    "businessField1": "",
+                    "cmmdtyCode": "000000011642710765",
+                    "pgMemberNum": "2",
+                    "stdLocatCode": "",
+                    "onLineStatus": "",
+                    "chargePlantCode": ""
+                }
+            ],
+            "price": "18.80",
+            "supplierCode": "0070926652",
+            "pgPrice": "26.90",
+            "preheatMemberNum": "",
+            "plantCode": "ZE99",
+            "errorMsg": "",
+            "businessMode": "",
+            "locatCode": "0001",
+            "farmActID": "",
+            "errorDesc": "",
+            "purchaseFlag": "5",
+            "preheatPrice": "",
+            "pageExistFlag": "",
+            "cmmdtyType": "2",
+            "arrivalDate": "",
+            "sourceSaleStatus": "",
+            "bizCode": "0070926652",
+            "saleStatus": "1",
+            "activeId": "64200533792911362399",
+            "businessField1": "",
+            "cmmdtyCode": "000000011642652399",
+            "pgMemberNum": "2",
+            "stdLocatCode": "",
+            "onLineStatus": "",
+            "chargePlantCode": ""
+        }
+    ],
+    "cResult": [
+        {
+            "productNumber": "000000012252007040",
+            "activityInfo": [
+                {
+                    "activityDescription": "",
+                    "activityId": "",
+                    "activitySecretKey": "",
+                    "activityTypeId": "",
+                    "isAppleSpecialActivity": "",
+                    "bonusList": [
+                        {
+                            "couponType": "",
+                            "couponPromotionLabel": "",
+                            "giftsInfo": [
+                                {
+                                    "giftId": "",
+                                    "giftProductType": ""
+                                }
+                            ],
+                            "couponStartTime": "",
+                            "couponEndTime": "",
+                            "salesPrice": "",
+                            "bonusId": "",
+                            "bonusRulesDesc": "",
+                            "floor": "",
+                            "couponValue": ""
+                        }
+                    ],
+                    "activityRuleList": {}
+                }
+            ]
+        },
+        {
+            "productNumber": "000000012199849967",
+            "activityInfo": [
+                {
+                    "activityDescription": "",
+                    "activityId": "",
+                    "activitySecretKey": "",
+                    "activityTypeId": "",
+                    "isAppleSpecialActivity": "",
+                    "bonusList": [
+                        {
+                            "couponType": "",
+                            "couponPromotionLabel": "",
+                            "giftsInfo": [
+                                {
+                                    "giftId": "",
+                                    "giftProductType": ""
+                                }
+                            ],
+                            "couponStartTime": "",
+                            "couponEndTime": "",
+                            "salesPrice": "",
+                            "bonusId": "",
+                            "bonusRulesDesc": "",
+                            "floor": "",
+                            "couponValue": ""
+                        }
+                    ],
+                    "activityRuleList": {}
+                }
+            ]
+        },
+        {
+            "productNumber": "000000012150617877",
+            "storeId": "0070829166",
+            "activityInfo": [
+                {
+                    "activityDescription": "",
+                    "activityId": "",
+                    "activitySecretKey": "",
+                    "activityTypeId": "",
+                    "isAppleSpecialActivity": "",
+                    "bonusList": [
+                        {
+                            "couponType": "",
+                            "couponPromotionLabel": "",
+                            "giftsInfo": [
+                                {
+                                    "giftId": "",
+                                    "giftProductType": ""
+                                }
+                            ],
+                            "couponStartTime": "",
+                            "couponEndTime": "",
+                            "salesPrice": "",
+                            "bonusId": "",
+                            "bonusRulesDesc": "",
+                            "floor": "",
+                            "couponValue": ""
+                        }
+                    ],
+                    "activityRuleList": {}
+                }
+            ]
+        },
+        {
+            "productNumber": "000000012239508027",
+            "activityInfo": [
+                {
+                    "activityDescription": "",
+                    "activityId": "",
+                    "activitySecretKey": "",
+                    "activityTypeId": "",
+                    "isAppleSpecialActivity": "",
+                    "bonusList": [
+                        {
+                            "couponType": "",
+                            "couponPromotionLabel": "",
+                            "giftsInfo": [
+                                {
+                                    "giftId": "",
+                                    "giftProductType": ""
+                                }
+                            ],
+                            "couponStartTime": "",
+                            "couponEndTime": "",
+                            "salesPrice": "",
+                            "bonusId": "",
+                            "bonusRulesDesc": "",
+                            "floor": "",
+                            "couponValue": ""
+                        }
+                    ],
+                    "activityRuleList": {}
+                }
+            ]
+        },
+        {
+            "productNumber": "000000012200058443",
+            "storeId": "0071134652",
+            "activityInfo": [
+                {
+                    "activityDescription": "",
+                    "activityId": "",
+                    "activitySecretKey": "",
+                    "activityTypeId": "",
+                    "isAppleSpecialActivity": "",
+                    "bonusList": [
+                        {
+                            "couponType": "",
+                            "couponPromotionLabel": "",
+                            "giftsInfo": [
+                                {
+                                    "giftId": "",
+                                    "giftProductType": ""
+                                }
+                            ],
+                            "couponStartTime": "",
+                            "couponEndTime": "",
+                            "salesPrice": "",
+                            "bonusId": "",
+                            "bonusRulesDesc": "",
+                            "floor": "",
+                            "couponValue": ""
+                        }
+                    ],
+                    "activityRuleList": {}
+                }
+            ]
+        },
+        {
+            "productNumber": "000000012096969045",
+            "storeId": "0071257609",
+            "activityInfo": [
+                {
+                    "activityDescription": "购满9.00元返店铺29减3元券",
+                    "activityId": "202103100015568214",
+                    "activitySecretKey": "",
+                    "activityTypeId": "9",
+                    "isAppleSpecialActivity": "",
+                    "bonusList": [
+                        {
+                            "couponType": "",
+                            "couponPromotionLabel": "",
+                            "giftsInfo": {},
+                            "couponStartTime": "",
+                            "couponEndTime": "",
+                            "salesPrice": "",
+                            "bonusId": "2",
+                            "bonusRulesDesc": "购满9.00元返店铺29减3元券",
+                            "floor": "1",
+                            "couponValue": ""
+                        }
+                    ],
+                    "activityRuleList": [
+                        {
+                            "baseQuantifierType": "1",
+                            "baseAmount": "9",
+                            "singleMaxRewardAmount": "",
+                            "baseAddUpType": "3",
+                            "rewardQuantifierType": "1",
+                            "rewardAmount": "3",
+                            "floor": "1",
+                            "scopeType": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "productNumber": "000000012221270104",
+            "storeId": "0071197119",
+            "activityInfo": [
+                {
+                    "activityDescription": "",
+                    "activityId": "",
+                    "activitySecretKey": "",
+                    "activityTypeId": "",
+                    "isAppleSpecialActivity": "",
+                    "bonusList": [
+                        {
+                            "couponType": "",
+                            "couponPromotionLabel": "",
+                            "giftsInfo": [
+                                {
+                                    "giftId": "",
+                                    "giftProductType": ""
+                                }
+                            ],
+                            "couponStartTime": "",
+                            "couponEndTime": "",
+                            "salesPrice": "",
+                            "bonusId": "",
+                            "bonusRulesDesc": "",
+                            "floor": "",
+                            "couponValue": ""
+                        }
+                    ],
+                    "activityRuleList": {}
+                }
+            ]
+        },
+        {
+            "productNumber": "000000000133079282",
+            "activityInfo": [
+                {
+                    "activityDescription": "",
+                    "activityId": "",
+                    "activitySecretKey": "",
+                    "activityTypeId": "",
+                    "isAppleSpecialActivity": "",
+                    "bonusList": [
+                        {
+                            "couponType": "",
+                            "couponPromotionLabel": "",
+                            "giftsInfo": [
+                                {
+                                    "giftId": "",
+                                    "giftProductType": ""
+                                }
+                            ],
+                            "couponStartTime": "",
+                            "couponEndTime": "",
+                            "salesPrice": "",
+                            "bonusId": "",
+                            "bonusRulesDesc": "",
+                            "floor": "",
+                            "couponValue": ""
+                        }
+                    ],
+                    "activityRuleList": {}
+                }
+            ]
+        },
+        {
+            "productNumber": "000000011654983223",
+            "storeId": "0071022680",
+            "activityInfo": [
+                {
+                    "activityDescription": "",
+                    "activityId": "",
+                    "activitySecretKey": "",
+                    "activityTypeId": "",
+                    "isAppleSpecialActivity": "",
+                    "bonusList": [
+                        {
+                            "couponType": "",
+                            "couponPromotionLabel": "",
+                            "giftsInfo": [
+                                {
+                                    "giftId": "",
+                                    "giftProductType": ""
+                                }
+                            ],
+                            "couponStartTime": "",
+                            "couponEndTime": "",
+                            "salesPrice": "",
+                            "bonusId": "",
+                            "bonusRulesDesc": "",
+                            "floor": "",
+                            "couponValue": ""
+                        }
+                    ],
+                    "activityRuleList": {}
+                }
+            ]
+        },
+        {
+            "productNumber": "000000011642652399",
+            "storeId": "0070926652",
+            "activityInfo": [
+                {
+                    "activityDescription": "",
+                    "activityId": "",
+                    "activitySecretKey": "",
+                    "activityTypeId": "",
+                    "isAppleSpecialActivity": "",
+                    "bonusList": [
+                        {
+                            "couponType": "",
+                            "couponPromotionLabel": "",
+                            "giftsInfo": [
+                                {
+                                    "giftId": "",
+                                    "giftProductType": ""
+                                }
+                            ],
+                            "couponStartTime": "",
+                            "couponEndTime": "",
+                            "salesPrice": "",
+                            "bonusId": "",
+                            "bonusRulesDesc": "",
+                            "floor": "",
+                            "couponValue": ""
+                        }
+                    ],
+                    "activityRuleList": {}
+                }
+            ]
+        }
+    ],
+    "memberGroupLogo": {
+        "api": "api-group-MemberLogo",
+        "code": "1",
+        "data": {
+            "flag": "1",
+            "result": [
+                [
+                    {
+                        "groupId": "823318194337935360",
+                        "groupQuota": 0,
+                        "memberLogo": ""
+                    },
+                    {
+                        "groupId": "823317827516653568",
+                        "groupQuota": 0,
+                        "memberLogo": ""
+                    }
+                ],
+                [],
+                [
+                    {
+                        "groupId": "823317169655033856",
+                        "groupQuota": 0,
+                        "memberLogo": "//image2.suning.cn/uimg/cmf/cust_headpic/3b491b78a269f95ba72be29e211501c7_00_120x120.jpg?v=19141140"
+                    },
+                    {
+                        "groupId": "823309265151479808",
+                        "groupQuota": 0,
+                        "memberLogo": ""
+                    }
+                ],
+                [
+                    {
+                        "groupId": "823316135438233600",
+                        "groupQuota": 0,
+                        "memberLogo": ""
+                    },
+                    {
+                        "groupId": "823316135345930240",
+                        "groupQuota": 0,
+                        "memberLogo": ""
+                    }
+                ],
+                [
+                    {
+                        "groupId": "823318230088568832",
+                        "groupQuota": 0,
+                        "memberLogo": ""
+                    },
+                    {
+                        "groupId": "823318230075969536",
+                        "groupQuota": 0,
+                        "memberLogo": ""
+                    }
+                ],
+                [
+                    {
+                        "groupId": "823319118190313472",
+                        "groupQuota": 0,
+                        "memberLogo": "//image1.suning.cn/uimg/cmf/cust_headpic/e69622012e7076a0b808cb453c9f334a_00_120x120.jpg?v=25141924"
+                    },
+                    {
+                        "groupId": "823315226014396416",
+                        "groupQuota": 0,
+                        "memberLogo": ""
+                    }
+                ],
+                [
+                    {
+                        "groupId": "823319102738464768",
+                        "groupQuota": 0,
+                        "memberLogo": ""
+                    },
+                    {
+                        "groupId": "823310176745783296",
+                        "groupQuota": 0,
+                        "memberLogo": ""
+                    }
+                ],
+                [
+                    {
+                        "groupId": "823300546839969792",
+                        "groupQuota": 0,
+                        "memberLogo": ""
+                    }
+                ],
+                [
+                    {
+                        "groupId": "823317072646782976",
+                        "groupQuota": 0,
+                        "memberLogo": ""
+                    }
+                ],
+                [
+                    {
+                        "groupId": "823206349333909504",
+                        "groupQuota": 0,
+                        "memberLogo": ""
+                    }
+                ]
+            ]
+        },
+        "msg": "",
+        "v": "1.0"
+    },
+    "acts": {
+        "api": "api-activity-batchGetActivity",
+        "code": "1",
+        "data": [
+            {
+                "actId": "64026772117321287040",
+                "actStore": 999999,
+                "actType": "1",
+                "baseCount": 0,
+                "brandId": "2E2C",
+                "cActId": "20031874986",
+                "categoryCode": "R9000528",
+                "cmmdtyHierrarchy": "000472E2C",
+                "commission": 0.0065,
+                "endTime": 1617206399000,
+                "groupTime": 24,
+                "hgFlag": "4",
+                "hot": "0",
+                "imgUrl": "",
+                "itemCode": "000000012252007040",
+                "itemDesc": "不含荧光剂-母婴适用-深层清洁",
+                "itemName": "苏宁宜品深层洁净薰衣草洗衣液500ML*2袋",
+                "itemType": "Z001",
+                "maxAmount": 99,
+                "memberNum": 2,
+                "minAmount": 1,
+                "origin": "1",
+                "price": 10,
+                "published": "2",
+                "saleCatGroupid": "161729",
+                "showGroup": "1",
+                "startTime": 1614787200000,
+                "subActType": "1",
+                "subFlag": 0,
+                "supplierCode": "30003980",
+                "vendorCode": "0000000000",
+                "vendorName": "苏宁自营"
+            },
+            {
+                "actId": "63805195391201929967",
+                "actStore": 20000,
+                "actType": "1",
+                "baseCount": 0,
+                "brandId": "6099",
+                "cActId": "20031665703",
+                "categoryCode": "R9004647",
+                "cmmdtyHierrarchy": "000386099",
+                "commission": 0.1,
+                "endTime": 1617206399000,
+                "groupTime": 24,
+                "hgFlag": "5",
+                "hot": "0",
+                "imgUrl": "",
+                "itemCode": "000000012199849967",
+                "itemDesc": "清仓-休闲",
+                "itemName": "李宁男训练系列运动裤梭织平口速干长裤",
+                "itemType": "Z001",
+                "maxAmount": 99,
+                "memberNum": 2,
+                "minAmount": 1,
+                "origin": "1",
+                "price": 69,
+                "published": "2",
+                "saleCatGroupid": "420520",
+                "showGroup": "1",
+                "startTime": 1614787200000,
+                "subActType": "1",
+                "subFlag": 1,
+                "supplierCode": "30001719",
+                "vendorCode": "0000000000",
+                "vendorName": "苏宁自营"
+            },
+            {
+                "actId": "64252949589915207877",
+                "actStore": 160000,
+                "actType": "1",
+                "baseCount": 0,
+                "brandId": "0KZR",
+                "cActId": "20032087252",
+                "categoryCode": "R9001848",
+                "cmmdtyHierrarchy": "000070KZR",
+                "commission": 0.102,
+                "endTime": 1617206399000,
+                "groupTime": 24,
+                "hgFlag": "5",
+                "hot": "0",
+                "imgUrl": "",
+                "itemCode": "000000012150617877",
+                "itemDesc": "保温保冷-四季通用-容量大能装",
+                "itemName": "【保冷保热】新款四季通用时尚手提保温包 女士卡通防水便当包厨房食物保温包",
+                "itemType": "Z001",
+                "maxAmount": 99,
+                "memberNum": 2,
+                "minAmount": 1,
+                "origin": "6",
+                "price": 9.9,
+                "published": "2",
+                "saleCatGroupid": "226809",
+                "showGroup": "1",
+                "startTime": 1616169600000,
+                "subActType": "1",
+                "subFlag": 1,
+                "vendorCode": "0070829166",
+                "vendorName": "轩兮家居日用百货拼购专营店"
+            },
+            {
+                "actId": "64003611491103368027",
+                "actStore": 9999,
+                "actType": "1",
+                "baseCount": 0,
+                "brandId": "2FDQ",
+                "cActId": "20031853574",
+                "categoryCode": "R9006758",
+                "clusterId": "37652777",
+                "cmmdtyHierrarchy": "000472FDQ",
+                "commission": 0.15,
+                "endTime": 1617206399000,
+                "groupTime": 24,
+                "hgFlag": "4",
+                "hot": "0",
+                "imgUrl": "",
+                "itemCode": "000000012239508027",
+                "itemDesc": "高山绿茶-特级毛峰茶",
+                "itemName": "酥田黄山毛峰 茶叶绿茶毛尖春茶新茶118克",
+                "itemType": "Z001",
+                "maxAmount": 99,
+                "memberNum": 2,
+                "minAmount": 1,
+                "origin": "1",
+                "price": 49,
+                "published": "2",
+                "saleCatGroupid": "500376",
+                "showGroup": "1",
+                "startTime": 1615305600000,
+                "subActType": "1",
+                "subFlag": 0,
+                "supplierCode": "30003980",
+                "vendorCode": "0000000000",
+                "vendorName": "苏宁自营"
+            },
+            {
+                "actId": "63770237630935688443",
+                "actStore": 10000,
+                "actType": "1",
+                "baseCount": 0,
+                "brandId": "076S",
+                "cActId": "20031615103",
+                "categoryCode": "R6123005",
+                "cmmdtyHierrarchy": "00016076S",
+                "commission": 0.0065,
+                "endTime": 1617206399000,
+                "groupTime": 24,
+                "hgFlag": "5",
+                "hot": "0",
+                "imgUrl": "",
+                "itemCode": "000000012200058443",
+                "itemDesc": "亲肤透气-防尘防飞沫-强效过滤",
+                "itemName": "【开学必备】善雅50只装一次性口罩三层防护 强效过滤 防水透气成人防护 学生成人适用",
+                "itemType": "Z001",
+                "maxAmount": 99,
+                "memberNum": 2,
+                "minAmount": 1,
+                "origin": "6",
+                "price": 10,
+                "published": "2",
+                "saleCatGroupid": "197501",
+                "showGroup": "1",
+                "startTime": 1614698303000,
+                "subActType": "1",
+                "subFlag": 1,
+                "vendorCode": "0071134652",
+                "vendorName": "希然拼购专营店"
+            },
+            {
+                "actId": "64228413046519369045",
+                "actStore": 10000,
+                "actType": "1",
+                "baseCount": 0,
+                "brandId": "88C3",
+                "cActId": "20032064458",
+                "categoryCode": "R9000413",
+                "cmmdtyHierrarchy": "0001988C3",
+                "commission": 0.1,
+                "endTime": 1616515199000,
+                "groupTime": 24,
+                "hgFlag": "4",
+                "hot": "0",
+                "imgUrl": "",
+                "itemCode": "000000012096969045",
+                "itemDesc": "送防水挂袋-多买多优惠",
+                "itemName": "【买9卷送10包手帕纸】纤净一次性洗脸巾可降解纯棉洁面巾加厚卷筒式卸妆棉美容毛巾珍珠纹抽取",
+                "itemType": "Z001",
+                "maxAmount": 99,
+                "memberNum": 2,
+                "minAmount": 3,
+                "origin": "6",
+                "price": 5.99,
+                "published": "2",
+                "saleCatGroupid": "362005",
+                "showGroup": "1",
+                "startTime": 1616256000000,
+                "subActType": "1",
+                "subFlag": 0,
+                "vendorCode": "0071257609",
+                "vendorName": "腾智母婴拼购专营店"
+            },
+            {
+                "actId": "63662398089196480104",
+                "actStore": 96000,
+                "actType": "1",
+                "baseCount": 0,
+                "brandId": "O672",
+                "cActId": "20031514400",
+                "categoryCode": "R6131001",
+                "cmmdtyHierrarchy": "00015O672",
+                "commission": 0.1,
+                "endTime": 1617206399000,
+                "groupTime": 24,
+                "hgFlag": "5",
+                "hot": "0",
+                "imgUrl": "",
+                "itemCode": "000000012221270104",
+                "itemDesc": "国家达标产品-加厚面料-不掉色",
+                "itemName": "【春季清仓，限量230套！！】世泽轩家纺 四季款加厚磨毛四件套单双人床上用品套件",
+                "itemType": "Z001",
+                "maxAmount": 99,
+                "memberNum": 2,
+                "minAmount": 1,
+                "origin": "6",
+                "price": 59,
+                "published": "2",
+                "saleCatGroupid": "161662",
+                "showGroup": "1",
+                "startTime": 1614528000000,
+                "subActType": "1",
+                "subFlag": 1,
+                "vendorCode": "0071197119",
+                "vendorName": "世泽轩家纺拼购旗舰店"
+            },
+            {
+                "actId": "64064677916242249282",
+                "actStore": 200,
+                "actType": "1",
+                "baseCount": 49,
+                "brandId": "3462",
+                "cActId": "20031933563",
+                "categoryCode": "R9018536",
+                "clusterId": "36894615",
+                "cmmdtyHierrarchy": "000073462",
+                "commission": 0.0065,
+                "endTime": 1616428799000,
+                "groupTime": 24,
+                "hgFlag": "4",
+                "hot": "2",
+                "imgUrl": "",
+                "itemCode": "000000000133079282",
+                "itemDesc": "一键退棒-可立机身-五档调速",
+                "itemName": "小熊打蛋器DDQ-A01G1",
+                "itemType": "Z001",
+                "maxAmount": 49,
+                "memberNum": 2,
+                "minAmount": 1,
+                "origin": "1",
+                "price": 49.9,
+                "published": "2",
+                "saleCatGroupid": "507965",
+                "showGroup": "1",
+                "startTime": 1615737600000,
+                "subActType": "1",
+                "subFlag": 0,
+                "supplierCode": "30000068",
+                "vendorCode": "0000000000",
+                "vendorName": "苏宁自营"
+            },
+            {
+                "actId": "64054591939605763223",
+                "actStore": 888888,
+                "actType": "1",
+                "baseCount": 0,
+                "brandId": "1C0X",
+                "cActId": "20031909345",
+                "categoryCode": "R4402006",
+                "cmmdtyHierrarchy": "000151C0X",
+                "commission": 0.15,
+                "endTime": 1616515199000,
+                "groupTime": 24,
+                "hgFlag": "5",
+                "hot": "0",
+                "imgUrl": "",
+                "itemCode": "000000011654983223",
+                "itemDesc": "出游踏青-遮阳防晒",
+                "itemName": "帽子女夏渔夫帽韩版百搭防紫外线遮脸帽子太阳帽遮阳帽夏天防晒帽",
+                "itemType": "Z001",
+                "maxAmount": 99,
+                "memberNum": 2,
+                "minAmount": 1,
+                "origin": "6",
+                "price": 8.9,
+                "published": "2",
+                "saleCatGroupid": "164011",
+                "showGroup": "1",
+                "startTime": 1616169600000,
+                "subActType": "1",
+                "subFlag": 1,
+                "vendorCode": "0071022680",
+                "vendorName": "欣魅莱旗舰店"
+            },
+            {
+                "actId": "64200533792911362399",
+                "actStore": 30000,
+                "actType": "1",
+                "baseCount": 0,
+                "brandId": "10BE",
+                "cActId": "20032036798",
+                "categoryCode": "R9006662",
+                "clusterId": "34008505",
+                "cmmdtyHierrarchy": "0002510BE",
+                "commission": 0.1,
+                "endTime": 1617206399000,
+                "groupTime": 24,
+                "hgFlag": "5",
+                "hot": "0",
+                "imgUrl": "",
+                "itemCode": "000000011642652399",
+                "itemDesc": "坏果包赔-新鲜现摘",
+                "itemName": "锦时【蒲江丑柑】 新鲜水果丑橘5斤70-90mm（拍2件合发带箱10斤净重9斤）酸甜坏果包赔",
+                "itemType": "Z001",
+                "maxAmount": 99,
+                "memberNum": 2,
+                "minAmount": 2,
+                "origin": "6",
+                "price": 18.8,
+                "published": "2",
+                "saleCatGroupid": "503923",
+                "showGroup": "1",
+                "startTime": 1615996800000,
+                "subActType": "1",
+                "subFlag": 1,
+                "vendorCode": "0070926652",
+                "vendorName": "锦时生鲜旗舰店"
+            }
+        ],
+        "msg": "",
+        "v": "1.0"
+    },
+    "labels": [
+        {
+            "subLabels": [
+                {
+                    "labelCode": "",
+                    "labelName": ""
+                },
+                {
+                    "labelCode": "",
+                    "labelName": ""
+                },
+                {
+                    "labelCode": "SL00000060",
+                    "labelName": "七天无理由退货"
+                }
+            ]
+        },
+        {
+            "subLabels": [
+                {
+                    "labelCode": "",
+                    "labelName": ""
+                },
+                {
+                    "labelCode": "",
+                    "labelName": ""
+                },
+                {
+                    "labelCode": "SL00000060",
+                    "labelName": "七天无理由退货"
+                }
+            ]
+        },
+        {
+            "subLabels": [
+                {
+                    "labelCode": "",
+                    "labelName": ""
+                },
+                {
+                    "labelCode": "",
+                    "labelName": ""
+                },
+                {
+                    "labelCode": "SL00000060",
+                    "labelName": "七天无理由退货"
+                }
+            ]
+        },
+        {
+            "subLabels": [
+                {
+                    "labelCode": "",
+                    "labelName": ""
+                },
+                {
+                    "labelCode": "",
+                    "labelName": ""
+                },
+                {
+                    "labelCode": "SL00000060",
+                    "labelName": "七天无理由退货"
+                }
+            ]
+        },
+        {
+            "subLabels": [
+                {
+                    "labelCode": "",
+                    "labelName": ""
+                },
+                {
+                    "labelCode": "",
+                    "labelName": ""
+                },
+                {
+                    "labelCode": "",
+                    "labelName": ""
+                }
+            ]
+        },
+        {
+            "subLabels": [
+                {
+                    "labelCode": "",
+                    "labelName": ""
+                },
+                {
+                    "labelCode": "9",
+                    "labelName": "满返"
+                },
+                {
+                    "labelCode": "SL00000060",
+                    "labelName": "七天无理由退货"
+                }
+            ]
+        },
+        {
+            "subLabels": [
+                {
+                    "labelCode": "",
+                    "labelName": ""
+                },
+                {
+                    "labelCode": "",
+                    "labelName": ""
+                },
+                {
+                    "labelCode": "SL00000060",
+                    "labelName": "七天无理由退货"
+                }
+            ]
+        },
+        {
+            "subLabels": [
+                {
+                    "labelCode": "",
+                    "labelName": ""
+                },
+                {
+                    "labelCode": "",
+                    "labelName": ""
+                },
+                {
+                    "labelCode": "",
+                    "labelName": ""
+                }
+            ]
+        },
+        {
+            "subLabels": [
+                {
+                    "labelCode": "",
+                    "labelName": ""
+                },
+                {
+                    "labelCode": "",
+                    "labelName": ""
+                },
+                {
+                    "labelCode": "SL00000060",
+                    "labelName": "七天无理由退货"
+                }
+            ]
+        },
+        {
+            "subLabels": [
+                {
+                    "labelCode": "",
+                    "labelName": ""
+                },
+                {
+                    "labelCode": "",
+                    "labelName": ""
+                },
+                {
+                    "labelCode": "",
+                    "labelName": ""
+                }
+            ]
+        }
+    ],
+    "commonTags": {
+        "api": "api-act-queryCommonTagList",
+        "code": "1",
+        "data": [
+            {
+                "itemCode": "000000012252007040",
+                "tagList": [
+                    {
+                        "picUrl": "//image.suning.cn/uimg/pgs/activity/160281140850216296.png",
+                        "tagName": "自营",
+                        "width": 64
+                    },
+                    {
+                        "picUrl": "//image.suning.cn/uimg/pgs/activity/161053028800612361.png",
+                        "tagId": 10,
+                        "tagLevel": 0,
+                        "tagName": "苏宁宜品",
+                        "width": 104
+                    }
+                ],
+                "vendorCode": "0000000000"
+            },
+            {
+                "itemCode": "000000012199849967",
+                "tagList": [
+                    {
+                        "picUrl": "//image.suning.cn/uimg/pgs/activity/160281140850216296.png",
+                        "tagName": "自营",
+                        "width": 64
+                    },
+                    {
+                        "picUrl": "//image.suning.cn/uimg/pgs/activity/160387842684674293.png",
+                        "tagId": 1,
+                        "tagLevel": 2,
+                        "tagName": "品牌",
+                        "width": 64
+                    }
+                ],
+                "vendorCode": "0000000000"
+            },
+            {
+                "itemCode": "000000012150617877",
+                "tagList": [],
+                "vendorCode": "0070829166"
+            },
+            {
+                "itemCode": "000000012239508027",
+                "tagList": [
+                    {
+                        "picUrl": "//image.suning.cn/uimg/pgs/activity/160281140850216296.png",
+                        "tagName": "自营",
+                        "width": 64
+                    },
+                    {
+                        "picUrl": "//image.suning.cn/uimg/pgs/activity/161053028800612361.png",
+                        "tagId": 10,
+                        "tagLevel": 0,
+                        "tagName": "苏宁宜品",
+                        "width": 104
+                    }
+                ],
+                "vendorCode": "0000000000"
+            },
+            {
+                "itemCode": "000000012200058443",
+                "tagList": [],
+                "vendorCode": "0071134652"
+            },
+            {
+                "itemCode": "000000012096969045",
+                "tagList": [],
+                "vendorCode": "0071257609"
+            },
+            {
+                "itemCode": "000000012221270104",
+                "tagList": [],
+                "vendorCode": "0071197119"
+            },
+            {
+                "itemCode": "000000000133079282",
+                "tagList": [
+                    {
+                        "picUrl": "//image.suning.cn/uimg/pgs/activity/160281140850216296.png",
+                        "tagName": "自营",
+                        "width": 64
+                    },
+                    {
+                        "picUrl": "//image.suning.cn/uimg/pgs/activity/160387842684674293.png",
+                        "tagId": 1,
+                        "tagLevel": 2,
+                        "tagName": "品牌",
+                        "width": 64
+                    }
+                ],
+                "vendorCode": "0000000000"
+            },
+            {
+                "itemCode": "000000011654983223",
+                "tagList": [],
+                "vendorCode": "0071022680"
+            },
+            {
+                "itemCode": "000000011642652399",
+                "tagList": [],
+                "vendorCode": "0070926652"
+            }
+        ],
+        "msg": "",
+        "v": "1.0"
+    }
+}
